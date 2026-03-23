@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ep-001",
+    "bannerImage": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=80",
+    "title": "Building Your Creator Identity",
+    "description": "A practical guide on defining your voice, audience, and format before publishing your first season.",
+    "createdDate": "2026-02-17T10:15:00Z",
+    "status": "published",
+    "viewsCount": 48250,
+    "avgWatchTime": "18m 42s",
+    "dropOffBeforeCompletion": "26%"
+  },
+  {
+    "id": "ep-002",
+    "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "title": "Script Faster with AI Workflows",
+    "description": "Use structured prompts and outlines to reduce scripting time while keeping your authentic storytelling style.",
+    "createdDate": "2026-01-21T08:30:00Z",
+    "status": "draft",
+    "viewsCount": 0,
+    "avgWatchTime": "0m 00s",
+    "dropOffBeforeCompletion": "0%"
+  },
+  {
+    "id": "ep-003",
+    "bannerImage": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=1200&q=80",
+    "title": "Audio Setup for Home Studios",
+    "description": "Microphone positioning, room treatment, and noise reduction tips for clean and consistent episode sound.",
+    "createdDate": "2025-12-10T15:45:00Z",
+    "status": "published",
+    "viewsCount": 31490,
+    "avgWatchTime": "22m 09s",
+    "dropOffBeforeCompletion": "19%"
+  },
+  {
+    "id": "ep-004",
+    "bannerImage": "https://images.unsplash.com/photo-1551281044-8b5bd91d2a8b?auto=format&fit=crop&w=1200&q=80",
+    "title": "Editing Rhythms That Retain Attention",
+    "description": "Learn pacing techniques, jump cut patterns, and segment transitions that improve audience retention.",
+    "createdDate": "2026-03-03T11:00:00Z",
+    "status": "uploading",
+    "viewsCount": 0,
+    "avgWatchTime": "0m 00s",
+    "dropOffBeforeCompletion": "0%"
+  },
+  {
+    "id": "ep-005",
+    "bannerImage": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?auto=format&fit=crop&w=1200&q=80",
+    "title": "Thumbnail Psychology for Click-Through",
+    "description": "Color, contrast, and composition frameworks to design episode thumbnails that increase click-through rates.",
+    "createdDate": "2025-11-29T07:20:00Z",
+    "status": "published",
+    "viewsCount": 76880,
+    "avgWatchTime": "14m 31s",
+    "dropOffBeforeCompletion": "34%"
+  },
+  {
+    "id": "ep-006",
+    "bannerImage": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
+    "title": "Designing a 30-Day Content Sprint",
+    "description": "A repeatable production calendar covering ideation, batching, editing, and distribution.",
+    "createdDate": "2026-02-05T16:10:00Z",
+    "status": "draft",
+    "viewsCount": 0,
+    "avgWatchTime": "0m 00s",
+    "dropOffBeforeCompletion": "0%"
+  },
+  {
+    "id": "ep-007",
+    "bannerImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+    "title": "Publishing Pipeline Automation",
+    "description": "Connect tools and templates to automate metadata, posting schedules, and platform rollouts.",
+    "createdDate": "2026-01-02T13:55:00Z",
+    "status": "published",
+    "viewsCount": 55610,
+    "avgWatchTime": "20m 05s",
+    "dropOffBeforeCompletion": "23%"
+  },
+  {
+    "id": "ep-008",
+    "bannerImage": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Community Loops and Listener Feedback",
+    "description": "How to collect audience feedback and convert it into episode improvements and new format experiments.",
+    "createdDate": "2026-03-12T09:05:00Z",
+    "status": "uploading",
+    "viewsCount": 0,
+    "avgWatchTime": "0m 00s",
+    "dropOffBeforeCompletion": "0%"
+  },
+  {
+    "id": "ep-009",
+    "bannerImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80",
+    "title": "Story Arc Framework for Multi-Part Series",
+    "description": "Build tension and payoff across episodes with a clear narrative arc that keeps audiences coming back.",
+    "createdDate": "2025-10-16T12:40:00Z",
+    "status": "published",
+    "viewsCount": 89320,
+    "avgWatchTime": "26m 44s",
+    "dropOffBeforeCompletion": "17%"
+  },
+  {
+    "id": "ep-010",
+    "bannerImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+    "title": "Monetization Without Audience Fatigue",
+    "description": "Balance sponsorships, memberships, and premium content while protecting trust and episode value.",
+    "createdDate": "2026-02-26T18:25:00Z",
+    "status": "draft",
+    "viewsCount": 0,
+    "avgWatchTime": "0m 00s",
+    "dropOffBeforeCompletion": "0%"
+  }
+]
