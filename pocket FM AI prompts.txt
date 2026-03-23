@@ -1,0 +1,29 @@
+I have an empty React Application set-up. I want to create a dashboard for content creators. The dashboard should have the following key features
+- List of episodes
+- Search option based on title and description of the episode
+- Filter option based on status
+- order option based on date, title
+
+List of episodes:
+- The data for episodes should be initialised from a hardcoded JSON file. In future that JSON file could be replaced by an API call and passed to listing component
+- Each episode can have its banner image, title, description, created data.
+- It should have the status with supported values: published or draft or uploading
+- It should have the following statistics:
+	- views count
+	- average watch time/ listening duration
+	- drop off before completion
+
+Please initialise the JSON with a mock data of 10 episodes.
+Make best use case of React modular components
+Explain me the approach or component structure before implementing
+
+
+
+
+The status visble for each episode, is colour coded. But, without a lable it will not give complete info to the user. Please add it
+Whenever the image of episode doesn't exist or the image media doesn't exist, please show a fallback image
+
+
+This application needs to be served and ascaled across for a high usage. So, please optimise it with lazy loading of images and pagination
+
+Please link this React app with the github repository https://github.com/HarshithMjh/creator-dashboard.git
